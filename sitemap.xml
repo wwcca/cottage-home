@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://wwcca.github.io/cottage-home/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://wwcca.ca/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://wwcca.github.io/cottage-home/</loc>
+<loc>https://wwcca.ca/</loc>
 </url>
 <url>
-<loc>https://wwcca.github.io/cottage-home/emergency-and-security.html</loc>
+<loc>https://wwcca.ca/emergency-and-security.html</loc>
 <lastmod>2025-02-16T19:49:53-05:00</lastmod>
 <image:image>
-<image:loc>https://wwcca.github.io/cottage-home/media/posts/3/img_2173.jpg</image:loc>
+<image:loc>https://wwcca.ca/media/posts/3/img_2173.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://wwcca.github.io/cottage-home/faq.html</loc>
+<loc>https://wwcca.ca/faq.html</loc>
 <lastmod>2025-02-16T19:49:05-05:00</lastmod>
 </url>
 <url>
-<loc>https://wwcca.github.io/cottage-home/membership.html</loc>
+<loc>https://wwcca.ca/membership.html</loc>
 <lastmod>2025-02-16T19:49:21-05:00</lastmod>
 <image:image>
-<image:loc>https://wwcca.github.io/cottage-home/media/posts/2/img_1205.jpg</image:loc>
+<image:loc>https://wwcca.ca/media/posts/2/img_1205.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

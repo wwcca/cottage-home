@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://wwcca.github.io/cottage-home/sitemap.xml
+Sitemap: https://wwcca.ca/sitemap.xml

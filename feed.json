@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Watabeag Wildgoose Community Cottagers Association",
     "description": "",
-    "home_page_url": "https://wwcca.github.io/cottage-home",
-    "feed_url": "https://wwcca.github.io/cottage-home/feed.json",
+    "home_page_url": "https://wwcca.ca",
+    "feed_url": "https://wwcca.ca/feed.json",
     "user_comment": "",
     "author": {
         "name": "Sue Rapin"
